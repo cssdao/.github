@@ -1,4 +1,4 @@
-## 欢迎来到 [CSS DAO](https://css.show) 👋
+## 这里是 [CSS DAO](https://css.show) 👋
 
 [CSS DAO](https://css.show) 的愿景是成为一个在Web3世界中具有重要影响力的技术性质 DAO。我们致力于为 Web3 生态系统的发展做出贡献，通过技术创新和社区合作，推动 Web3 的应用和普及。
 
