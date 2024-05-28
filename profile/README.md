@@ -13,5 +13,3 @@
 We firmly believe that the future of Web3 is decentralized, secure, open and transparent. Therefore, we are committed to developing decentralized applications (DApps), smart contracts and other Web3-related technologies to provide users with a more secure, private and autonomous online experience. We will also support and participate in Web3 standardization efforts to ensure the interoperability and sustainability of the Web3 ecosystem.
 
 [CSS DAO](https://css.show)'s core values are openness, transparency, collaboration and innovation. We welcome people of all backgrounds and skill levels to join our community to explore, learn and create the future of Web3. We believe that through [CSS DAO](https://css.show)'s efforts and continuous innovation, we can make Web3 technology more complete and popular, and promote the sustainable development of the Web3 world.
-
-Translated with DeepL.com (free version)
